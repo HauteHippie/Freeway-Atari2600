@@ -1,3 +1,3 @@
 # Freeway-Atari2600
-Recreation try of the famous Atari 2600 game, Freeway.
-\n(ALPHA)(ALPHA)(ALPHA)(ALPHA)(ALPHA)(ALPHA)(ALPHA)
+<p>Recreation try of the famous Atari 2600 game, Freeway.</p>
+<p>(ALPHA)(ALPHA)(ALPHA)(ALPHA)(ALPHA)(ALPHA)(ALPHA)</p>
