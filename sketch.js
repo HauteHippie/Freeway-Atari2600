@@ -7,5 +7,6 @@ function draw() {
   showCar();
   showChicken();
   moveCar();
+  returnToPosition();
   moveChicken();
 }
